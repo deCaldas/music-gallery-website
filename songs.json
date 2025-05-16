@@ -1,0 +1,3800 @@
+{
+  "songs": [
+    {
+      "title": "The Message",
+      "artist": "Grandmaster Flash & The Furious Five",
+      "year": 1982,
+      "album": "The Message",
+      "genre": [
+        "Hip-Hop",
+        "Conscious Rap"
+      ],
+      "youtubeId": "gYMkEMCHtJ4"
+    },
+    {
+      "title": "Planet Rock",
+      "artist": "Afrika Bambaataa & The Soul Sonic Force",
+      "year": 1982,
+      "album": "Planet Rock: The Album",
+      "genre": [
+        "Electro",
+        "Hip-Hop"
+      ],
+      "youtubeId": "9J3lwZjHenA"
+    },
+    {
+      "title": "White Lines (Don't Don't Do It)",
+      "artist": "Grandmaster Flash & Melle Mel",
+      "year": 1983,
+      "album": "Grandmaster Flash: They Said It Couldn't Be Done",
+      "genre": [
+        "Hip-Hop",
+        "Anti-Drug"
+      ],
+      "youtubeId": "DwRXI-y6M9o"
+    },
+    {
+      "title": "Jam On It",
+      "artist": "Newcleus",
+      "year": 1984,
+      "album": "Jam On Revenge",
+      "genre": [
+        "Electro",
+        "Old School Rap"
+      ],
+      "youtubeId": "uAEw_sX7CFA"
+    },
+    {
+      "title": "I Need Love",
+      "artist": "LL Cool J",
+      "year": 1987,
+      "album": "Bigger and Deffer",
+      "genre": [
+        "Hip-Hop",
+        "Love Rap"
+      ],
+      "youtubeId": "NEUX-HYRtUA"
+    },
+    {
+      "title": "It's Tricky",
+      "artist": "Run-D.M.C.",
+      "year": 1986,
+      "album": "Raising Hell",
+      "genre": [
+        "Hip-Hop",
+        "Rap Rock"
+      ],
+      "youtubeId": "l-O5IHVhWj0"
+    },
+    {
+      "title": "Walk This Way",
+      "artist": "Run-D.M.C. ft. Aerosmith",
+      "year": 1986,
+      "album": "Raising Hell",
+      "genre": [
+        "Hip-Hop",
+        "Rap Rock"
+      ],
+      "youtubeId": "4B_UYYPb-Gk"
+    },
+    {
+      "title": "Push It",
+      "artist": "Salt-N-Pepa",
+      "year": 1987,
+      "album": "Hot, Cool & Vicious",
+      "genre": [
+        "Hip-Hop",
+        "Electro"
+      ],
+      "youtubeId": "vCadcBR95oU"
+    },
+    {
+      "title": "Parents Just Don't Understand",
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "year": 1988,
+      "album": "He's the DJ, I'm the Rapper",
+      "genre": [
+        "Hip-Hop",
+        "Comedy Rap"
+      ],
+      "youtubeId": "jW3PFC86UNI"
+    },
+    {
+      "title": "Straight Outta Compton",
+      "artist": "N.W.A",
+      "year": 1988,
+      "album": "Straight Outta Compton",
+      "genre": [
+        "Gangsta Rap",
+        "West Coast Hip-Hop"
+      ],
+      "youtubeId": "TMZi25Pq3T8"
+    },
+    {
+      "title": "Fight the Power",
+      "artist": "Public Enemy",
+      "year": 1989,
+      "album": "Fear of a Black Planet",
+      "genre": [
+        "Conscious Rap",
+        "Political Hip-Hop"
+      ],
+      "youtubeId": "mmo3HFa2vjg"
+    },
+    {
+      "title": "Bust a Move",
+      "artist": "Young MC",
+      "year": 1989,
+      "album": "Stone Cold Rhymin'",
+      "genre": [
+        "Hip-Hop",
+        "Pop Rap"
+      ],
+      "youtubeId": "xy4FXhkm6Nw"
+    },
+    {
+      "title": "Me So Horny",
+      "artist": "2 Live Crew",
+      "year": 1989,
+      "album": "As Nasty As They Wanna Be",
+      "genre": [
+        "Miami Bass",
+        "Explicit Rap"
+      ],
+      "youtubeId": "T70xQpNpiQc"
+    },
+    {
+      "title": "Funky Cold Medina",
+      "artist": "Tone Lōc",
+      "year": 1989,
+      "album": "Lōc-ed After Dark",
+      "genre": [
+        "Hip-Hop",
+        "Comedy Rap"
+      ],
+      "youtubeId": "63ZIf2H9S0E"
+    },
+    {
+      "title": "Wild Thing",
+      "artist": "Tone Lōc",
+      "year": 1988,
+      "album": "Lōc-ed After Dark",
+      "genre": [
+        "Hip-Hop",
+        "Party Rap"
+      ],
+      "youtubeId": "G_upnEFGDcM"
+    },
+    {
+      "title": "I Want Her",
+      "artist": "Keith Sweat",
+      "year": 1987,
+      "album": "Make It Last Forever",
+      "genre": [
+        "R&B",
+        "New Jack Swing"
+      ],
+      "youtubeId": "9XqKRipnNSk"
+    },
+    {
+      "title": "Candy",
+      "artist": "Cameo",
+      "year": 1986,
+      "album": "Word Up!",
+      "genre": [
+        "Funk",
+        "R&B"
+      ],
+      "youtubeId": "sn8KYD1Vco0"
+    },
+    {
+      "title": "Super Freak",
+      "artist": "Rick James",
+      "year": 1981,
+      "album": "Street Songs",
+      "genre": [
+        "Funk",
+        "R&B"
+      ],
+      "youtubeId": "QYHxGBH6o4M"
+    },
+    {
+      "title": "Could You Be Loved",
+      "artist": "Bob Marley & The Wailers",
+      "year": 1980,
+      "album": "Uprising",
+      "genre": [
+        "Reggae",
+        "Roots Reggae"
+      ],
+      "youtubeId": "1ti2YCFgCoI"
+    },
+    {
+      "title": "Redemption Song",
+      "artist": "Bob Marley & The Wailers",
+      "year": 1980,
+      "album": "Uprising",
+      "genre": [
+        "Reggae",
+        "Acoustic"
+      ],
+      "youtubeId": "yv5xonFSC4c"
+    },
+    {
+      "title": "Ghost Town",
+      "artist": "The Specials",
+      "year": 1981,
+      "album": "Non-Album Single",
+      "genre": [
+        "Ska",
+        "Post-Punk"
+      ],
+      "youtubeId": "RZ2oXzrnti4"
+    },
+    {
+      "title": "Free Nelson Mandela",
+      "artist": "The Special AKA",
+      "year": 1984,
+      "album": "In the Studio",
+      "genre": [
+        "Ska",
+        "Political"
+      ],
+      "youtubeId": "tJ6kqBOZWBw"
+    },
+    {
+      "title": "Electric Avenue",
+      "artist": "Eddy Grant",
+      "year": 1982,
+      "album": "Killer on the Rampage",
+      "genre": [
+        "Reggae",
+        "Pop"
+      ],
+      "youtubeId": "Yxep-9BQ6Uo"
+    },
+    {
+      "title": "I Don't Wanna Dance",
+      "artist": "Eddy Grant",
+      "year": 1982,
+      "album": "Killer on the Rampage",
+      "genre": [
+        "Reggae",
+        "Pop"
+      ],
+      "youtubeId": "9de6jeOevi8"
+    },
+    {
+      "title": "Gimme Hope Jo'anna",
+      "artist": "Eddy Grant",
+      "year": 1988,
+      "album": "File Under Rock",
+      "genre": [
+        "Reggae",
+        "Political"
+      ],
+      "youtubeId": "R-ZplG81oZg"
+    },
+    {
+      "title": "The Final Countdown",
+      "artist": "Europe",
+      "year": 1986,
+      "album": "The Final Countdown",
+      "genre": [
+        "Rock",
+        "Hard Rock"
+      ],
+      "youtubeId": "9jK-NcRmVcw"
+    },
+    {
+      "title": "Carrie",
+      "artist": "Europe",
+      "year": 1987,
+      "album": "The Final Countdown",
+      "genre": [
+        "Rock",
+        "Power Ballad"
+      ],
+      "youtubeId": "KmWE9UBFwtY"
+    },
+    {
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "year": 1982,
+      "album": "Eye of the Tiger",
+      "genre": [
+        "Rock",
+        "Arena Rock"
+      ],
+      "youtubeId": "btPJPFnesV4"
+    },
+    {
+      "title": "Burning Heart",
+      "artist": "Survivor",
+      "year": 1985,
+      "album": "Rocky IV Soundtrack",
+      "genre": [
+        "Rock",
+        "Arena Rock"
+      ],
+      "youtubeId": "Kc71KZG87X4"
+    },
+    {
+      "title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "year": 1981,
+      "album": "Escape",
+      "genre": [
+        "Rock",
+        "Arena Rock"
+      ],
+      "youtubeId": "1k8craCGpgs"
+    },
+    {
+      "title": "Open Arms",
+      "artist": "Journey",
+      "year": 1982,
+      "album": "Escape",
+      "genre": [
+        "Rock",
+        "Power Ballad"
+      ],
+      "youtubeId": "i5pUOVC50Y8"
+    },
+    {
+      "title": "Africa",
+      "artist": "Toto",
+      "year": 1982,
+      "album": "Toto IV",
+      "genre": [
+        "Rock",
+        "Soft Rock"
+      ],
+      "youtubeId": "FTQbiNvZqaY"
+    },
+    {
+      "title": "Rosanna",
+      "artist": "Toto",
+      "year": 1982,
+      "album": "Toto IV",
+      "genre": [
+        "Rock",
+        "Soft Rock"
+      ],
+      "youtubeId": "qmOLtTGvsbM"
+    },
+    {
+      "title": "Hold the Line",
+      "artist": "Toto",
+      "year": 1981,
+      "album": "Toto",
+      "genre": [
+        "Rock",
+        "Soft Rock"
+      ],
+      "youtubeId": "htgr3pvBr-I"
+    },
+    {
+      "title": "Keep On Loving You",
+      "artist": "REO Speedwagon",
+      "year": 1980,
+      "album": "Hi Infidelity",
+      "genre": [
+        "Rock",
+        "Power Ballad"
+      ],
+      "youtubeId": "wJzNZ1c5C9c"
+    },
+    {
+      "title": "Can't Fight This Feeling",
+      "artist": "REO Speedwagon",
+      "year": 1984,
+      "album": "Wheels Are Turnin'",
+      "genre": [
+        "Rock",
+        "Power Ballad"
+      ],
+      "youtubeId": "zpOULjyy-n8"
+    },
+    {
+      "title": "I Want to Know What Love Is",
+      "artist": "Foreigner",
+      "year": 1984,
+      "album": "Agent Provocateur",
+      "genre": [
+        "Rock",
+        "Power Ballad"
+      ],
+      "youtubeId": "r3Pr1_v7hsw"
+    },
+    {
+      "title": "Waiting for a Girl Like You",
+      "artist": "Foreigner",
+      "year": 1981,
+      "album": "4",
+      "genre": [
+        "Rock",
+        "Soft Rock"
+      ],
+      "youtubeId": "RIdfPBmUAXc"
+    },
+    {
+      "title": "More Than a Feeling",
+      "artist": "Boston",
+      "year": 1980,
+      "album": "Boston",
+      "genre": [
+        "Rock",
+        "Arena Rock"
+      ],
+      "youtubeId": "t4QK8RxCAwo"
+    },
+    {
+      "title": "Amanda",
+      "artist": "Boston",
+      "year": 1986,
+      "album": "Third Sgenree",
+      "genre": [
+        "Rock",
+        "Power Ballad"
+      ],
+      "youtubeId": "S4mCIsmiAWc"
+    },
+    {
+      "title": "Jump",
+      "artist": "Van Halen",
+      "year": 1984,
+      "album": "1984",
+      "genre": [
+        "Rock",
+        "Hard Rock"
+      ],
+      "youtubeId": "SwYN7mTi6HM"
+    },
+    {
+      "title": "Panama",
+      "artist": "Van Halen",
+      "year": 1984,
+      "album": "1984",
+      "genre": [
+        "Rock",
+        "Hard Rock"
+      ],
+      "youtubeId": "fuKDBPw8wQA"
+    },
+    {
+      "title": "Every Breath You Take",
+      "artist": "The Police",
+      "year": 1983,
+      "album": "Synchronicity",
+      "genre": [
+        "Rock",
+        "New Wave"
+      ],
+      "youtubeId": "OMOGaugKpzs"
+    },
+    {
+      "title": "Message in a Bottle",
+      "artist": "The Police",
+      "year": 1980,
+      "album": "Reggatta de Blanc",
+      "genre": [
+        "Rock",
+        "New Wave"
+      ],
+      "youtubeId": "MbXWrmQW-OE"
+    },
+    {
+      "title": "Just Like Heaven",
+      "artist": "The Cure",
+      "year": 1987,
+      "album": "Kiss Me, Kiss Me, Kiss Me",
+      "genre": [
+        "Rock",
+        "New Wave"
+      ],
+      "youtubeId": "n3nPiBai66M"
+    },
+    {
+      "title": "Friday I'm in Love",
+      "artist": "The Cure",
+      "year": 1989,
+      "album": "Wish",
+      "genre": [
+        "Rock",
+        "Alternative"
+      ],
+      "youtubeId": "mGgMZpGYiy8"
+    },
+    {
+      "title": "With or Without You",
+      "artist": "U2",
+      "year": 1987,
+      "album": "The Joshua Tree",
+      "genre": [
+        "Rock",
+        "Alternative"
+      ],
+      "youtubeId": "ujNeHIo7oTE"
+    },
+    {
+      "title": "Sunday Bloody Sunday",
+      "artist": "U2",
+      "year": 1983,
+      "album": "War",
+      "genre": [
+        "Rock",
+        "Alternative"
+      ],
+      "youtubeId": "Iqlzoz_jH3c"
+    },
+    {
+      "title": "New Sensation",
+      "artist": "INXS",
+      "year": 1987,
+      "album": "Kick",
+      "genre": [
+        "Rock",
+        "Alternative"
+      ],
+      "youtubeId": "azfG5H-pCVg"
+    },
+    {
+      "title": "Need You Tonight",
+      "artist": "INXS",
+      "year": 1987,
+      "album": "Kick",
+      "genre": [
+        "Rock",
+        "Alternative"
+      ],
+      "youtubeId": "F93ywiGMDnQ"
+    },
+    {
+      "title": "Don't You (Forget About Me)",
+      "artist": "Simple Minds",
+      "year": 1985,
+      "album": "The Breakfast Club Soundtrack",
+      "genre": [
+        "Rock",
+        "New Wave"
+      ],
+      "youtubeId": "CdqoNKCCt7A"
+    },
+    {
+      "title": "Alive and Kicking",
+      "artist": "Simple Minds",
+      "year": 1985,
+      "album": "Once Upon a Time",
+      "genre": [
+        "Rock",
+        "New Wave"
+      ],
+      "youtubeId": "ljIQo1OHkTI"
+    },
+    {
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Tears for Fears",
+      "year": 1985,
+      "album": "Songs from the Big Chair",
+      "genre": [
+        "Rock",
+        "New Wave"
+      ],
+      "youtubeId": "aGCdLKXNF3w"
+    },
+    {
+      "title": "Shout",
+      "artist": "Tears for Fears",
+      "year": 1985,
+      "album": "Songs from the Big Chair",
+      "genre": [
+        "Rock",
+        "New Wave"
+      ],
+      "youtubeId": "Ye7FKc1JQe4"
+    },
+    {
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Eurythmics",
+      "year": 1983,
+      "album": "Sweet Dreams (Are Made of This)",
+      "genre": [
+        "Synth-pop",
+        "New Wave"
+      ],
+      "youtubeId": "qeMFqkcPYcg"
+    },
+    {
+      "title": "Here Comes the Rain Again",
+      "artist": "Eurythmics",
+      "year": 1984,
+      "album": "Touch",
+      "genre": [
+        "Synth-pop",
+        "New Wave"
+      ],
+      "youtubeId": "TzFnYcIqj6I"
+    },
+    {
+      "title": "Would I Lie to You?",
+      "artist": "Eurythmics",
+      "year": 1985,
+      "album": "Be Yourself Tonight",
+      "genre": [
+        "Pop",
+        "Rock"
+      ],
+      "youtubeId": "Uhpu2N4rQZM"
+    },
+    {
+      "title": "Karma Chameleon",
+      "artist": "Culture Club",
+      "year": 1983,
+      "album": "Colour by Numbers",
+      "genre": [
+        "Pop",
+        "New Wave"
+      ],
+      "youtubeId": "JmcA9LIIXWw"
+    },
+    {
+      "title": "Do You Really Want to Hurt Me",
+      "artist": "Culture Club",
+      "year": 1982,
+      "album": "Kissing to Be Clever",
+      "genre": [
+        "Pop",
+        "Reggae Fusion"
+      ],
+      "youtubeId": "2nXGPZaTKik"
+    },
+    {
+      "title": "Take On Me",
+      "artist": "A-ha",
+      "year": 1985,
+      "album": "Hunting High and Low",
+      "genre": [
+        "Synth-pop",
+        "New Wave"
+      ],
+      "youtubeId": "djV11Xbc914"
+    },
+    {
+      "title": "The Sun Always Shines on T.V.",
+      "artist": "A-ha",
+      "year": 1985,
+      "album": "Hunting High and Low",
+      "genre": [
+        "Synth-pop",
+        "New Wave"
+      ],
+      "youtubeId": "a3ir9HC9vYg"
+    },
+    {
+      "title": "Tainted Love",
+      "artist": "Soft Cell",
+      "year": 1981,
+      "album": "Non-Stop Erotic Cabaret",
+      "genre": [
+        "Synth-pop",
+        "New Wave"
+      ],
+      "youtubeId": "XZVpR3Pk-r8"
+    },
+    {
+      "title": "Don't You Want Me",
+      "artist": "The Human League",
+      "year": 1981,
+      "album": "Dare",
+      "genre": [
+        "Synth-pop",
+        "New Wave"
+      ],
+      "youtubeId": "uPudE8nDog0"
+    },
+    {
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "year": 1987,
+      "album": "Whenever You Need Somebody",
+      "genre": [
+        "Pop",
+        "Dance"
+      ],
+      "youtubeId": "dQw4w9WgXcQ"
+    },
+    {
+      "title": "You Spin Me Round (Like a Record)",
+      "artist": "Dead or Alive",
+      "year": 1985,
+      "album": "Youthquake",
+      "genre": [
+        "Dance",
+        "Hi-NRG"
+      ],
+      "youtubeId": "PGNiXGX2nLU"
+    },
+    {
+      "title": "Venus",
+      "artist": "Bananarama",
+      "year": 1986,
+      "album": "True Confessions",
+      "genre": [
+        "Pop",
+        "Dance"
+      ],
+      "youtubeId": "d4-1ASpdT1Y"
+    },
+    {
+      "title": "Love Shack",
+      "artist": "The B-52's",
+      "year": 1989,
+      "album": "Cosmic Thing",
+      "genre": [
+        "New Wave",
+        "Dance-rock"
+      ],
+      "youtubeId": "9SOryJvTAGs"
+    },
+    {
+      "title": "Heaven Is a Place on Earth",
+      "artist": "Belinda Carlisle",
+      "year": 1987,
+      "album": "Heaven on Earth",
+      "genre": [
+        "Pop",
+        "Rock"
+      ],
+      "youtubeId": "j2F4INQFjEI"
+    },
+    {
+      "title": "Kids in America",
+      "artist": "Kim Wilde",
+      "year": 1981,
+      "album": "Kim Wilde",
+      "genre": [
+        "New Wave",
+        "Pop"
+      ],
+      "youtubeId": "80TfG7C9azA"
+    },
+    {
+      "title": "Down Under",
+      "artist": "Men at Work",
+      "year": 1981,
+      "album": "Business as Usual",
+      "genre": [
+        "New Wave",
+        "Reggae Rock"
+      ],
+      "youtubeId": "XfR9iY5y94s"
+    },
+    {
+      "title": "99 Luftballons",
+      "artist": "Nena",
+      "year": 1983,
+      "album": "Nena",
+      "genre": [
+        "New Wave",
+        "Pop"
+      ],
+      "youtubeId": "Fpu5a0Bl8eY"
+    },
+    {
+      "title": "Rock Me Amadeus",
+      "artist": "Falco",
+      "year": 1985,
+      "album": "Falco 3",
+      "genre": [
+        "Pop",
+        "Hip Hop"
+      ],
+      "youtubeId": "cVikZ8Oe_XA"
+    },
+    {
+      "title": "Tarzan Boy",
+      "artist": "Baltimora",
+      "year": 1985,
+      "album": "Living in the Background",
+      "genre": [
+        "Italo disco",
+        "Dance"
+      ],
+      "youtubeId": "--6CdAypJsQ"
+    },
+    {
+      "title": "The Only Way Is Up",
+      "artist": "Yazz",
+      "year": 1988,
+      "album": "Wanted",
+      "genre": [
+        "House",
+        "Dance"
+      ],
+      "youtubeId": "vjD3EVC1-zU"
+    },
+    {
+      "title": "West End Girls",
+      "artist": "Pet Shop Boys",
+      "year": 1984,
+      "album": "Please",
+      "genre": [
+        "Synth-pop",
+        "New Wave"
+      ],
+      "youtubeId": "p3j2NYZ8FKs"
+    },
+    {
+      "title": "Opportunities (Let's Make Lots of Money)",
+      "artist": "Pet Shop Boys",
+      "year": 1985,
+      "album": "Please",
+      "genre": [
+        "Synth-pop",
+        "Satire"
+      ],
+      "youtubeId": "PyeWRd7ZEBs"
+    },
+    {
+      "title": "Love Comes Quickly",
+      "artist": "Pet Shop Boys",
+      "year": 1986,
+      "album": "Please",
+      "genre": [
+        "Synth-pop",
+        "Ballad"
+      ],
+      "youtubeId": "QHaA1beOwrY"
+    },
+    {
+      "title": "Suburbia",
+      "artist": "Pet Shop Boys",
+      "year": 1986,
+      "album": "Please",
+      "genre": [
+        "Synth-pop",
+        "Dance"
+      ],
+      "youtubeId": "-VCqAjYO3NM"
+    },
+    {
+      "title": "It's a Sin",
+      "artist": "Pet Shop Boys",
+      "year": 1987,
+      "album": "Actually",
+      "genre": [
+        "Synth-pop",
+        "Dramatic"
+      ],
+      "youtubeId": "dRHetRTOD1Q"
+    },
+    {
+      "title": "What Have I Done to Deserve This?",
+      "artist": "Pet Shop Boys feat. Dusty Springfield",
+      "year": 1987,
+      "album": "Actually",
+      "genre": [
+        "Synth-pop",
+        "Duet"
+      ],
+      "youtubeId": "Wn9E5i7l-Eg"
+    },
+    {
+      "title": "Rent",
+      "artist": "Pet Shop Boys",
+      "year": 1987,
+      "album": "Actually",
+      "genre": [
+        "Synth-pop",
+        "Ballad"
+      ],
+      "youtubeId": "NTHi-p7l3KM"
+    },
+    {
+      "title": "Always on My Mind",
+      "artist": "Pet Shop Boys",
+      "year": 1987,
+      "album": "Introspective",
+      "genre": [
+        "Synth-pop",
+        "Cover"
+      ],
+      "youtubeId": "bDMCwSP5nf0"
+    },
+    {
+      "title": "Heart",
+      "artist": "Pet Shop Boys",
+      "year": 1988,
+      "album": "Introspective",
+      "genre": [
+        "Synth-pop",
+        "Dance"
+      ],
+      "youtubeId": "wTkfK2g4pKI"
+    },
+    {
+      "title": "Domino Dancing",
+      "artist": "Pet Shop Boys",
+      "year": 1988,
+      "album": "Introspective",
+      "genre": [
+        "Synth-pop",
+        "Latin Influence"
+      ],
+      "youtubeId": "ik2YF05iX2w"
+    },
+    {
+      "title": "Left to My Own Devices",
+      "artist": "Pet Shop Boys",
+      "year": 1988,
+      "album": "Introspective",
+      "genre": [
+        "Synth-pop",
+        "Orchestral"
+      ],
+      "youtubeId": "Ed1tv_gCOUA"
+    },
+    {
+      "title": "It's Alright",
+      "artist": "Pet Shop Boys",
+      "year": 1989,
+      "album": "Introspective",
+      "genre": [
+        "Synth-pop",
+        "House"
+      ],
+      "youtubeId": "9r0pISqCDRw"
+    },
+    {
+      "title": "Just Can't Get Enough",
+      "artist": "Depeche Mode",
+      "year": 1981,
+      "album": "Speak & Spell",
+      "genre": [
+        "Synthpop",
+        "New Wave"
+      ],
+      "youtubeId": "_6FBfAQ-NDE"
+    },
+    {
+      "title": "See You",
+      "artist": "Depeche Mode",
+      "year": 1982,
+      "album": "A Broken Frame",
+      "genre": [
+        "Synthpop",
+        "New Wave"
+      ],
+      "youtubeId": "zuWQitNlvf0"
+    },
+    {
+      "title": "Leave in Silence",
+      "artist": "Depeche Mode",
+      "year": 1982,
+      "album": "A Broken Frame",
+      "genre": [
+        "Synthpop",
+        "Dark Wave"
+      ],
+      "youtubeId": "ucIv-sMta7I"
+    },
+    {
+      "title": "Everything Counts",
+      "artist": "Depeche Mode",
+      "year": 1983,
+      "album": "Construction Time Again",
+      "genre": [
+        "Synthpop",
+        "Industrial"
+      ],
+      "youtubeId": "1t-gK-9EIq4"
+    },
+    {
+      "title": "People Are People",
+      "artist": "Depeche Mode",
+      "year": 1984,
+      "album": "Some Great Reward",
+      "genre": [
+        "Synthpop",
+        "New Wave",
+        "Political"
+      ],
+      "youtubeId": "MzGnX-MbYE4"
+    },
+    {
+      "title": "Master and Servant",
+      "artist": "Depeche Mode",
+      "year": 1984,
+      "album": "Some Great Reward",
+      "genre": [
+        "Synthpop",
+        "Industrial",
+        "Provocative"
+      ],
+      "youtubeId": "IsvfofcIE1Q"
+    },
+    {
+      "title": "Blasphemous Rumours",
+      "artist": "Depeche Mode",
+      "year": 1984,
+      "album": "Some Great Reward",
+      "genre": [
+        "Synthpop",
+        "Dark Wave",
+        "Controversial"
+      ],
+      "youtubeId": "o3EAzf5fDpY"
+    },
+    {
+      "title": "Shake the Disease",
+      "artist": "Depeche Mode",
+      "year": 1985,
+      "album": "The Singles 81→85",
+      "genre": [
+        "Synthpop",
+        "Dark Wave"
+      ],
+      "youtubeId": "r_0sL_SQYvw"
+    },
+    {
+      "title": "Stripped",
+      "artist": "Depeche Mode",
+      "year": 1986,
+      "album": "Black Celebration",
+      "genre": [
+        "Synthpop",
+        "Dark Wave",
+        "Industrial"
+      ],
+      "youtubeId": "qU8UfYdKHvs"
+    },
+    {
+      "title": "A Question of Time",
+      "artist": "Depeche Mode",
+      "year": 1986,
+      "album": "Black Celebration",
+      "genre": [
+        "Synthpop",
+        "Dark Wave"
+      ],
+      "youtubeId": "9pt7EWFF_T8"
+    },
+    {
+      "title": "Never Let Me Down Again",
+      "artist": "Depeche Mode",
+      "year": 1987,
+      "album": "Music for the Masses",
+      "genre": [
+        "Synthpop",
+        "Alternative Dance"
+      ],
+      "youtubeId": "snILjFUkk_A"
+    },
+    {
+      "title": "Strangelove",
+      "artist": "Depeche Mode",
+      "year": 1987,
+      "album": "Music for the Masses",
+      "genre": [
+        "Synthpop",
+        "New Wave"
+      ],
+      "youtubeId": "MHRabky4Ajc"
+    },
+    {
+      "title": "Behind the Wheel",
+      "artist": "Depeche Mode",
+      "year": 1987,
+      "album": "Music for the Masses",
+      "genre": [
+        "Synthpop",
+        "Alternative Dance"
+      ],
+      "youtubeId": "VEAuMiKqP-4"
+    },
+    {
+      "title": "Personal Jesus",
+      "artist": "Depeche Mode",
+      "year": 1989,
+      "album": "Violator",
+      "genre": [
+        "Synthpop",
+        "Alternative Rock",
+        "Blues Influence"
+      ],
+      "youtubeId": "u1xrNaTO1bI"
+    },
+    {
+      "title": "Enjoy the Silence",
+      "artist": "Depeche Mode",
+      "year": 1989,
+      "album": "Violator",
+      "genre": [
+        "Synthpop",
+        "Alternative Dance",
+        "Ambient"
+      ],
+      "youtubeId": "aGSKrC7dGcY"
+    },
+    {
+      "title": "Girls on Film",
+      "artist": "Duran Duran",
+      "year": 1981,
+      "album": "Duran Duran",
+      "genre": [
+        "New Wave",
+        "Synth-pop"
+      ],
+      "youtubeId": "KCjMZMxNr-0"
+    },
+    {
+      "title": "Hungry Like the Wolf",
+      "artist": "Duran Duran",
+      "year": 1982,
+      "album": "Rio",
+      "genre": [
+        "New Wave",
+        "Pop rock"
+      ],
+      "youtubeId": "oJL-lCzEXgI"
+    },
+    {
+      "title": "Rio",
+      "artist": "Duran Duran",
+      "year": 1982,
+      "album": "Rio",
+      "genre": [
+        "New Wave",
+        "Synth-pop"
+      ],
+      "youtubeId": "nTizYn3-QN0"
+    },
+    {
+      "title": "Save a Prayer",
+      "artist": "Duran Duran",
+      "year": 1982,
+      "album": "Rio",
+      "genre": [
+        "New Wave",
+        "Soft rock"
+      ],
+      "youtubeId": "6Uxc9eFcZyM"
+    },
+    {
+      "title": "Is There Something I Should Know?",
+      "artist": "Duran Duran",
+      "year": 1983,
+      "album": "Seven and the Ragged Tiger",
+      "genre": [
+        "New Wave",
+        "Pop"
+      ],
+      "youtubeId": "3M0hogZyRyU"
+    },
+    {
+      "title": "Union of the Snake",
+      "artist": "Duran Duran",
+      "year": 1983,
+      "album": "Seven and the Ragged Tiger",
+      "genre": [
+        "New Wave",
+        "Synth-pop"
+      ],
+      "youtubeId": "n6p5Q6_JBes"
+    },
+    {
+      "title": "The Reflex",
+      "artist": "Duran Duran",
+      "year": 1984,
+      "album": "Seven and the Ragged Tiger",
+      "genre": [
+        "New Wave",
+        "Dance-pop"
+      ],
+      "youtubeId": "J5ebkj9x5Ko"
+    },
+    {
+      "title": "Wild Boys",
+      "artist": "Duran Duran",
+      "year": 1984,
+      "album": "Arena",
+      "genre": [
+        "New Wave",
+        "Rock"
+      ],
+      "youtubeId": "M43wsiNBwmo"
+    },
+    {
+      "title": "A View to a Kill",
+      "artist": "Duran Duran",
+      "year": 1985,
+      "album": "A View to a Kill (Single)",
+      "genre": [
+        "New Wave",
+        "Soundtrack"
+      ],
+      "youtubeId": "Fp4CR2HcHLQ"
+    },
+    {
+      "title": "Notorious",
+      "artist": "Duran Duran",
+      "year": 1986,
+      "album": "Notorious",
+      "genre": [
+        "Pop rock",
+        "Funk"
+      ],
+      "youtubeId": "Z9z0e1Wm64M"
+    },
+    {
+      "title": "Skin Trade",
+      "artist": "Duran Duran",
+      "year": 1987,
+      "album": "Notorious",
+      "genre": [
+        "Pop rock",
+        "Funk"
+      ],
+      "youtubeId": "oNU61nS0TTY"
+    },
+    {
+      "title": "I Don't Want Your Love",
+      "artist": "Duran Duran",
+      "year": 1988,
+      "album": "Big Thing",
+      "genre": [
+        "Pop",
+        "Dance"
+      ],
+      "youtubeId": "TAAC9wttHM8"
+    },
+    {
+      "title": "All Night Long (All Night)",
+      "artist": "Lionel Richie",
+      "year": 1983,
+      "album": "Can't Slow Down",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Dance"
+      ],
+      "youtubeId": "nqAvFx3NxUM"
+    },
+    {
+      "title": "Hello",
+      "artist": "Lionel Richie",
+      "year": 1984,
+      "album": "Can't Slow Down",
+      "genre": [
+        "Pop",
+        "Ballad",
+        "R&B"
+      ],
+      "youtubeId": "mHONNcZbwDY"
+    },
+    {
+      "title": "Stuck on You",
+      "artist": "Lionel Richie",
+      "year": 1984,
+      "album": "Can't Slow Down",
+      "genre": [
+        "Pop",
+        "R&B"
+      ],
+      "youtubeId": "PozM4bs-g7s"
+    },
+    {
+      "title": "Running with the Night",
+      "artist": "Lionel Richie",
+      "year": 1983,
+      "album": "Can't Slow Down",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Rock"
+      ],
+      "youtubeId": "wXJ5IHwBLrA"
+    },
+    {
+      "title": "Penny Lover",
+      "artist": "Lionel Richie",
+      "year": 1984,
+      "album": "Can't Slow Down",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Ballad"
+      ],
+      "youtubeId": "T9zX1V2WYhE"
+    },
+    {
+      "title": "Say You, Say Me",
+      "artist": "Lionel Richie",
+      "year": 1985,
+      "album": "Dancing on the Ceiling",
+      "genre": [
+        "Pop",
+        "Ballad",
+        "Soundtrack"
+      ],
+      "youtubeId": "gIbw0OkC9po"
+    },
+    {
+      "title": "Dancing on the Ceiling",
+      "artist": "Lionel Richie",
+      "year": 1986,
+      "album": "Dancing on the Ceiling",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Dance"
+      ],
+      "youtubeId": "ovo6zwv6DX4"
+    },
+    {
+      "title": "Ballerina Girl",
+      "artist": "Lionel Richie",
+      "year": 1986,
+      "album": "Dancing on the Ceiling",
+      "genre": [
+        "Pop",
+        "Ballad"
+      ],
+      "youtubeId": "pnNyJ0LXhNw"
+    },
+    {
+      "title": "Love Will Conquer All",
+      "artist": "Lionel Richie",
+      "year": 1986,
+      "album": "Dancing on the Ceiling",
+      "genre": [
+        "Pop",
+        "R&B"
+      ],
+      "youtubeId": "Y_7FY-BHnTg"
+    },
+    {
+      "title": "Se La",
+      "artist": "Lionel Richie",
+      "year": 1986,
+      "album": "Dancing on the Ceiling",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Caribbean"
+      ],
+      "youtubeId": "uLek1Xtp9q8"
+    },
+    {
+      "title": "Endless Love",
+      "artist": "Lionel Richie & Diana Ross",
+      "year": 1981,
+      "album": "Endless Love: Original Motion Picture Soundtrack",
+      "genre": [
+        "Pop",
+        "Ballad",
+        "Duet"
+      ],
+      "youtubeId": "UsqDoz2Co4o"
+    },
+    {
+      "title": "Truly",
+      "artist": "Lionel Richie",
+      "year": 1982,
+      "album": "Lionel Richie",
+      "genre": [
+        "Pop",
+        "Ballad",
+        "R&B"
+      ],
+      "youtubeId": "G1xiFRccd88"
+    },
+    {
+      "title": "You Are",
+      "artist": "Lionel Richie",
+      "year": 1983,
+      "album": "Lionel Richie",
+      "genre": [
+        "Pop",
+        "Ballad"
+      ],
+      "youtubeId": "0353jrboqOc"
+    },
+    {
+      "title": "My Love",
+      "artist": "Lionel Richie",
+      "year": 1983,
+      "album": "Lionel Richie",
+      "genre": [
+        "Pop",
+        "R&B"
+      ],
+      "youtubeId": "B3LNmLzmSKk"
+    },
+    {
+      "title": "What's Love Got to Do with It",
+      "artist": "Tina Turner",
+      "year": 1984,
+      "album": "Private Dancer",
+      "genre": [
+        "Pop",
+        "Rock"
+      ],
+      "youtubeId": "oGpFcHTxjZs"
+    },
+    {
+      "title": "Private Dancer",
+      "artist": "Tina Turner",
+      "year": 1984,
+      "album": "Private Dancer",
+      "genre": [
+        "Pop",
+        "Rock",
+        "Soft Rock"
+      ],
+      "youtubeId": "d4QnalIHlVc"
+    },
+    {
+      "title": "Better Be Good to Me",
+      "artist": "Tina Turner",
+      "year": 1984,
+      "album": "Private Dancer",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "youtubeId": "qyU7BbQSm98"
+    },
+    {
+      "title": "We Don't Need Another Hero (Thunderdome)",
+      "artist": "Tina Turner",
+      "year": 1985,
+      "album": "Mad Max Beyond Thunderdome (Soundtrack)",
+      "genre": [
+        "Pop",
+        "Rock",
+        "Soundtrack"
+      ],
+      "youtubeId": "Gcm-tOGiva0"
+    },
+    {
+      "title": "Typical Male",
+      "artist": "Tina Turner",
+      "year": 1986,
+      "album": "Break Every Rule",
+      "genre": [
+        "Pop",
+        "Rock"
+      ],
+      "youtubeId": "4-wD8VKnTg4"
+    },
+    {
+      "title": "The Best",
+      "artist": "Tina Turner",
+      "year": 1989,
+      "album": "Foreign Affair",
+      "genre": [
+        "Pop",
+        "Rock"
+      ],
+      "youtubeId": "GC5E8ie2pdM"
+    },
+    {
+      "title": "I Don't Wanna Lose You",
+      "artist": "Tina Turner",
+      "year": 1989,
+      "album": "Foreign Affair",
+      "genre": [
+        "Pop",
+        "Rock",
+        "Ballad"
+      ],
+      "youtubeId": "pLj5sBfGuQY"
+    },
+    {
+      "title": "Steamy Windows",
+      "artist": "Tina Turner",
+      "year": 1989,
+      "album": "Foreign Affair",
+      "genre": [
+        "Blues Rock",
+        "Pop"
+      ],
+      "youtubeId": "e04pzNwIqU8"
+    },
+    {
+      "title": "Let's Stay Together",
+      "artist": "Tina Turner",
+      "year": 1983,
+      "album": "Private Dancer",
+      "genre": [
+        "Pop",
+        "Soul"
+      ],
+      "youtubeId": "4rFB4nj_GRc"
+    },
+    {
+      "title": "Help!",
+      "artist": "Tina Turner",
+      "year": 1984,
+      "album": "Private Dancer",
+      "genre": [
+        "Rock",
+        "Cover"
+      ],
+      "youtubeId": "4cro7kZKG2c"
+    },
+    {
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Cyndi Lauper",
+      "year": 1983,
+      "album": "She's So Unusual",
+      "genre": [
+        "Pop",
+        "New Wave",
+        "Feminist Anthem"
+      ],
+      "youtubeId": "PIb6AZdTr-A"
+    },
+    {
+      "title": "Time After Time",
+      "artist": "Cyndi Lauper",
+      "year": 1984,
+      "album": "She's So Unusual",
+      "genre": [
+        "Pop",
+        "Ballad",
+        "Romantic"
+      ],
+      "youtubeId": "VdQY7BusJNU"
+    },
+    {
+      "title": "She Bop",
+      "artist": "Cyndi Lauper",
+      "year": 1984,
+      "album": "She's So Unusual",
+      "genre": [
+        "Pop",
+        "New Wave",
+        "Controversial"
+      ],
+      "youtubeId": "KFq4E9XTueY"
+    },
+    {
+      "title": "All Through the Night",
+      "artist": "Cyndi Lauper",
+      "year": 1984,
+      "album": "She's So Unusual",
+      "genre": [
+        "Pop",
+        "Ballad",
+        "Romantic"
+      ],
+      "youtubeId": "ZONKoKIQ9RY"
+    },
+    {
+      "title": "Money Changes Everything",
+      "artist": "Cyndi Lauper",
+      "year": 1984,
+      "album": "She's So Unusual",
+      "genre": [
+        "Pop Rock",
+        "New Wave"
+      ],
+      "youtubeId": "cMVuRGw_a5A"
+    },
+    {
+      "title": "True Colors",
+      "artist": "Cyndi Lauper",
+      "year": 1986,
+      "album": "True Colors",
+      "genre": [
+        "Pop",
+        "Ballad",
+        "Inspirational"
+      ],
+      "youtubeId": "LPn0KFlbqX8"
+    },
+    {
+      "title": "Change of Heart",
+      "artist": "Cyndi Lauper",
+      "year": 1986,
+      "album": "True Colors",
+      "genre": [
+        "Pop",
+        "Dance",
+        "Upbeat"
+      ],
+      "youtubeId": "svHeFdSvPL0"
+    },
+    {
+      "title": "What's Going On",
+      "artist": "Cyndi Lauper",
+      "year": 1986,
+      "album": "True Colors",
+      "genre": [
+        "Pop",
+        "Cover",
+        "Soulful"
+      ],
+      "youtubeId": "BdXklYUJCxI"
+    },
+    {
+      "title": "I Drove All Night",
+      "artist": "Cyndi Lauper",
+      "year": 1989,
+      "album": "A Night to Remember",
+      "genre": [
+        "Pop Rock",
+        "Driving Beat",
+        "Powerful"
+      ],
+      "youtubeId": "2y1TZXc5DiY"
+    },
+    {
+      "title": "Careless Whisper",
+      "artist": "George Michael",
+      "year": 1984,
+      "album": "Make It Big",
+      "genre": [
+        "Pop",
+        "Soul",
+        "Ballad"
+      ],
+      "youtubeId": "izGwDsrQ1eQ"
+    },
+    {
+      "title": "Wake Me Up Before You Go-Go",
+      "artist": "Wham!",
+      "year": 1984,
+      "album": "Make It Big",
+      "genre": [
+        "Pop",
+        "Dance-pop"
+      ],
+      "youtubeId": "pIgZ7gMze7A"
+    },
+    {
+      "title": "Freedom",
+      "artist": "Wham!",
+      "year": 1984,
+      "album": "Make It Big",
+      "genre": [
+        "Pop",
+        "Dance-pop"
+      ],
+      "youtubeId": "kZl0AzHMI_Q"
+    },
+    {
+      "title": "Everything She Wants",
+      "artist": "Wham!",
+      "year": 1984,
+      "album": "Make It Big",
+      "genre": [
+        "Pop",
+        "Soul"
+      ],
+      "youtubeId": "vDYw__at664"
+    },
+    {
+      "title": "Last Christmas",
+      "artist": "Wham!",
+      "year": 1984,
+      "album": "Music from the Edge of Heaven",
+      "genre": [
+        "Pop",
+        "Christmas"
+      ],
+      "youtubeId": "E8gmARGvPlI"
+    },
+    {
+      "title": "I'm Your Man",
+      "artist": "Wham!",
+      "year": 1985,
+      "album": "Music from the Edge of Heaven",
+      "genre": [
+        "Pop",
+        "Dance-pop"
+      ],
+      "youtubeId": "6W0d9xMhZbo"
+    },
+    {
+      "title": "A Different Corner",
+      "artist": "George Michael",
+      "year": 1986,
+      "album": "Music from the Edge of Heaven",
+      "genre": [
+        "Pop",
+        "Ballad"
+      ],
+      "youtubeId": "IPWHkK-_a_A"
+    },
+    {
+      "title": "Faith",
+      "artist": "George Michael",
+      "year": 1987,
+      "album": "Faith",
+      "genre": [
+        "Pop",
+        "Rock",
+        "R&B"
+      ],
+      "youtubeId": "6Cs3Pvmmv0E"
+    },
+    {
+      "title": "Father Figure",
+      "artist": "George Michael",
+      "year": 1987,
+      "album": "Faith",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Soul"
+      ],
+      "youtubeId": "m_9hfHvQSNo"
+    },
+    {
+      "title": "One More Try",
+      "artist": "George Michael",
+      "year": 1987,
+      "album": "Faith",
+      "genre": [
+        "Pop",
+        "Soul",
+        "Ballad"
+      ],
+      "youtubeId": "bG5N3GC-m20"
+    },
+    {
+      "title": "Monkey",
+      "artist": "George Michael",
+      "year": 1987,
+      "album": "Faith",
+      "genre": [
+        "Pop",
+        "Funk",
+        "R&B"
+      ],
+      "youtubeId": "kA9NNq_6N-w"
+    },
+    {
+      "title": "Kissing a Fool",
+      "artist": "George Michael",
+      "year": 1988,
+      "album": "Faith",
+      "genre": [
+        "Pop",
+        "Jazz",
+        "Ballad"
+      ],
+      "youtubeId": "omsBhh8vA7c"
+    },
+    {
+      "title": "I Want Your Sex",
+      "artist": "George Michael",
+      "year": 1987,
+      "album": "Faith",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Funk"
+      ],
+      "youtubeId": "r3AP26ywQsQ"
+    },
+    {
+      "title": "Greatest Love of All",
+      "artist": "Whitney Houston",
+      "year": 1985,
+      "album": "Whitney Houston",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Ballad"
+      ],
+      "youtubeId": "IYzlVDlE72w"
+    },
+    {
+      "title": "Saving All My Love for You",
+      "artist": "Whitney Houston",
+      "year": 1985,
+      "album": "Whitney Houston",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Ballad"
+      ],
+      "youtubeId": "ewxmv2tyeRs"
+    },
+    {
+      "title": "How Will I Know",
+      "artist": "Whitney Houston",
+      "year": 1985,
+      "album": "Whitney Houston",
+      "genre": [
+        "Pop",
+        "Dance",
+        "R&B"
+      ],
+      "youtubeId": "m3-hY-hlhBg"
+    },
+    {
+      "title": "You Give Good Love",
+      "artist": "Whitney Houston",
+      "year": 1985,
+      "album": "Whitney Houston",
+      "genre": [
+        "R&B",
+        "Pop",
+        "Soul"
+      ],
+      "youtubeId": "dY7PmX6Oz58"
+    },
+    {
+      "title": "I Wanna Dance with Somebody (Who Loves Me)",
+      "artist": "Whitney Houston",
+      "year": 1987,
+      "album": "Whitney",
+      "genre": [
+        "Pop",
+        "Dance",
+        "Upbeat"
+      ],
+      "youtubeId": "eH3giaIzONA"
+    },
+    {
+      "title": "Didn't We Almost Have It All",
+      "artist": "Whitney Houston",
+      "year": 1987,
+      "album": "Whitney",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Ballad"
+      ],
+      "youtubeId": "c0TghfreFok"
+    },
+    {
+      "title": "So Emotional",
+      "artist": "Whitney Houston",
+      "year": 1987,
+      "album": "Whitney",
+      "genre": [
+        "Pop",
+        "Dance",
+        "R&B"
+      ],
+      "youtubeId": "0YjSHbA6HQQ"
+    },
+    {
+      "title": "Where Do Broken Hearts Go",
+      "artist": "Whitney Houston",
+      "year": 1987,
+      "album": "Whitney",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Ballad"
+      ],
+      "youtubeId": "wa3tfVjGCQ8"
+    },
+    {
+      "title": "Love Will Save the Day",
+      "artist": "Whitney Houston",
+      "year": 1987,
+      "album": "Whitney",
+      "genre": [
+        "Pop",
+        "Dance",
+        "R&B"
+      ],
+      "youtubeId": "qghRdMpoVOE"
+    },
+    {
+      "title": "One Moment in Time",
+      "artist": "Whitney Houston",
+      "year": 1988,
+      "album": "1988 Summer Olympics Album",
+      "genre": [
+        "Pop",
+        "Inspirational",
+        "Ballad"
+      ],
+      "youtubeId": "96aAx0kxVSA"
+    },
+    {
+      "title": "1999",
+      "artist": "Prince",
+      "year": 1982,
+      "album": "1999",
+      "genre": [
+        "Funk",
+        "Rock",
+        "Synth-pop"
+      ],
+      "youtubeId": "rblt2EtFfC4"
+    },
+    {
+      "title": "Little Red Corvette",
+      "artist": "Prince",
+      "year": 1982,
+      "album": "1999",
+      "genre": [
+        "Pop",
+        "Rock",
+        "Synth-pop"
+      ],
+      "youtubeId": "v0KpfrJE4zw"
+    },
+    {
+      "title": "When Doves Cry",
+      "artist": "Prince",
+      "year": 1984,
+      "album": "Purple Rain",
+      "genre": [
+        "Pop",
+        "Rock",
+        "Funk"
+      ],
+      "youtubeId": "UG3VcCAlUgE"
+    },
+    {
+      "title": "Let's Go Crazy",
+      "artist": "Prince",
+      "year": 1984,
+      "album": "Purple Rain",
+      "genre": [
+        "Rock",
+        "Funk",
+        "Pop"
+      ],
+      "youtubeId": "aXJhDltzYVQ"
+    },
+    {
+      "title": "Purple Rain",
+      "artist": "Prince",
+      "year": 1984,
+      "album": "Purple Rain",
+      "genre": [
+        "Rock",
+        "Ballad",
+        "Pop"
+      ],
+      "youtubeId": "TvnYmWpD_T8"
+    },
+    {
+      "title": "Kiss",
+      "artist": "Prince",
+      "year": 1986,
+      "album": "Parade",
+      "genre": [
+        "Funk",
+        "Pop",
+        "R&B"
+      ],
+      "youtubeId": "H9tEvfIsDyo"
+    },
+    {
+      "title": "Raspberry Beret",
+      "artist": "Prince",
+      "year": 1985,
+      "album": "Around the World in a Day",
+      "genre": [
+        "Pop",
+        "Psychedelic",
+        "Rock"
+      ],
+      "youtubeId": "l7vRSu_wsNc"
+    },
+    {
+      "title": "Sign o' the Times",
+      "artist": "Prince",
+      "year": 1987,
+      "album": "Sign o' the Times",
+      "genre": [
+        "Funk",
+        "Pop",
+        "Rock"
+      ],
+      "youtubeId": "8EdxM72EZ94"
+    },
+    {
+      "title": "U Got the Look",
+      "artist": "Prince",
+      "year": 1987,
+      "album": "Sign o' the Times",
+      "genre": [
+        "Rock",
+        "Pop",
+        "Funk"
+      ],
+      "youtubeId": "_jCuroTbqBI"
+    },
+    {
+      "title": "Alphabet St.",
+      "artist": "Prince",
+      "year": 1988,
+      "album": "Lovesexy",
+      "genre": [
+        "Funk",
+        "Pop",
+        "Hip-hop"
+      ],
+      "youtubeId": "vP1kZLGG5gw"
+    },
+    {
+      "title": "Batdance",
+      "artist": "Prince",
+      "year": 1989,
+      "album": "Batman",
+      "genre": [
+        "Funk",
+        "Pop",
+        "Soundtrack"
+      ],
+      "youtubeId": "ulOLYnOthIw"
+    },
+    {
+      "title": "I Would Die 4 U",
+      "artist": "Prince",
+      "year": 1984,
+      "album": "Purple Rain",
+      "genre": [
+        "Pop",
+        "Synth-pop",
+        "Funk"
+      ],
+      "youtubeId": "iGCIdHrRXW0"
+    },
+    {
+      "title": "Here I Go Again",
+      "artist": "Whitesnake",
+      "year": 1987,
+      "album": "Whitesnake",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "WyF8RHM1OCg"
+    },
+    {
+      "title": "Is This Love",
+      "artist": "Whitesnake",
+      "year": 1987,
+      "album": "Whitesnake",
+      "genre": [
+        "Hard Rock",
+        "Power Ballad"
+      ],
+      "youtubeId": "GOJk0HW_hJw"
+    },
+    {
+      "title": "Still of the Night",
+      "artist": "Whitesnake",
+      "year": 1987,
+      "album": "Whitesnake",
+      "genre": [
+        "Hard Rock",
+        "Blues Rock"
+      ],
+      "youtubeId": "swPt9HBRXuE"
+    },
+    {
+      "title": "Crying in the Rain",
+      "artist": "Whitesnake",
+      "year": 1982,
+      "album": "Saints & Sinners",
+      "genre": [
+        "Hard Rock",
+        "Blues Rock"
+      ],
+      "youtubeId": "PCHlCGBrwLU"
+    },
+    {
+      "title": "Fool for Your Loving",
+      "artist": "Whitesnake",
+      "year": 1980,
+      "album": "Ready an' Willing",
+      "genre": [
+        "Hard Rock",
+        "Blues Rock"
+      ],
+      "youtubeId": "8Tp0K9YiTPE"
+    },
+    {
+      "title": "Don't Break My Heart Again",
+      "artist": "Whitesnake",
+      "year": 1981,
+      "album": "Come an' Get It",
+      "genre": [
+        "Hard Rock",
+        "Blues Rock"
+      ],
+      "youtubeId": "SMT-Uyxy5pg"
+    },
+    {
+      "title": "Ain't No Love in the Heart of the City",
+      "artist": "Whitesnake",
+      "year": 1980,
+      "album": "Live...In the Heart of the City",
+      "genre": [
+        "Blues Rock",
+        "Live"
+      ],
+      "youtubeId": "9-0AiRqvpMw"
+    },
+    {
+      "title": "Love Ain't No Stranger",
+      "artist": "Whitesnake",
+      "year": 1984,
+      "album": "Slide It In",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "unHzLEA6gvI"
+    },
+    {
+      "title": "Slide It In",
+      "artist": "Whitesnake",
+      "year": 1984,
+      "album": "Slide It In",
+      "genre": [
+        "Hard Rock",
+        "Blues Rock"
+      ],
+      "youtubeId": "uQaKqs0gNZw"
+    },
+    {
+      "title": "Slow an' Easy",
+      "artist": "Whitesnake",
+      "year": 1984,
+      "album": "Slide It In",
+      "genre": [
+        "Hard Rock",
+        "Blues Rock"
+      ],
+      "youtubeId": "1qqAtPV-kgs"
+    },
+    {
+      "title": "Live Wire",
+      "artist": "Mötley Crüe",
+      "year": 1981,
+      "album": "Too Fast for Love",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "Ahq4blDfU5s"
+    },
+    {
+      "title": "Piece of Your Action",
+      "artist": "Mötley Crüe",
+      "year": 1981,
+      "album": "Too Fast for Love",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "8HZJanh9Ank"
+    },
+    {
+      "title": "Shout at the Devil",
+      "artist": "Mötley Crüe",
+      "year": 1983,
+      "album": "Shout at the Devil",
+      "genre": [
+        "Heavy Metal",
+        "Hard Rock"
+      ],
+      "youtubeId": "utyXQqZ35do"
+    },
+    {
+      "title": "Looks That Kill",
+      "artist": "Mötley Crüe",
+      "year": 1983,
+      "album": "Shout at the Devil",
+      "genre": [
+        "Glam Metal",
+        "Hard Rock"
+      ],
+      "youtubeId": "9wPHxQMgdKs"
+    },
+    {
+      "title": "Too Young to Fall in Love",
+      "artist": "Mötley Crüe",
+      "year": 1983,
+      "album": "Shout at the Devil",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "d25tXdJSedE"
+    },
+    {
+      "title": "Home Sweet Home",
+      "artist": "Mötley Crüe",
+      "year": 1985,
+      "album": "Theatre of Pain",
+      "genre": [
+        "Power Ballad",
+        "Glam Metal"
+      ],
+      "youtubeId": "Gmrh42foUsg"
+    },
+    {
+      "title": "Smokin' in the Boys Room",
+      "artist": "Mötley Crüe",
+      "year": 1985,
+      "album": "Theatre of Pain",
+      "genre": [
+        "Hard Rock",
+        "Cover"
+      ],
+      "youtubeId": "e18D14X9Ii0"
+    },
+    {
+      "title": "Girls, Girls, Girls",
+      "artist": "Mötley Crüe",
+      "year": 1987,
+      "album": "Girls, Girls, Girls",
+      "genre": [
+        "Glam Metal",
+        "Hard Rock"
+      ],
+      "youtubeId": "qMuZbxfFpfE"
+    },
+    {
+      "title": "Wild Side",
+      "artist": "Mötley Crüe",
+      "year": 1987,
+      "album": "Girls, Girls, Girls",
+      "genre": [
+        "Heavy Metal",
+        "Hard Rock"
+      ],
+      "youtubeId": "IlRDZUaJ8fs"
+    },
+    {
+      "title": "Dr. Feelgood",
+      "artist": "Mötley Crüe",
+      "year": 1989,
+      "album": "Dr. Feelgood",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "trGX3ET3jTQ"
+    },
+    {
+      "title": "Kickstart My Heart",
+      "artist": "Mötley Crüe",
+      "year": 1989,
+      "album": "Dr. Feelgood",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "e17mr5ZtWPI"
+    },
+    {
+      "title": "Same Ol' Situation (S.O.S.)",
+      "artist": "Mötley Crüe",
+      "year": 1989,
+      "album": "Dr. Feelgood",
+      "genre": [
+        "Glam Metal",
+        "Hard Rock"
+      ],
+      "youtubeId": "C2UTzWKGJqw"
+    },
+    {
+      "title": "Without You",
+      "artist": "Mötley Crüe",
+      "year": 1989,
+      "album": "Dr. Feelgood",
+      "genre": [
+        "Power Ballad",
+        "Glam Metal"
+      ],
+      "youtubeId": "qWbpZTTMXj0"
+    },
+    {
+      "title": "Photograph",
+      "artist": "Def Leppard",
+      "year": 1983,
+      "album": "Pyromania",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "D4dHr8evt6k"
+    },
+    {
+      "title": "Rock of Ages",
+      "artist": "Def Leppard",
+      "year": 1983,
+      "album": "Pyromania",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "nhSdljm909Y"
+    },
+    {
+      "title": "Foolin'",
+      "artist": "Def Leppard",
+      "year": 1983,
+      "album": "Pyromania",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "9SnxBvH-0Mc"
+    },
+    {
+      "title": "Pour Some Sugar on Me",
+      "artist": "Def Leppard",
+      "year": 1987,
+      "album": "Hysteria",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "0UIB9Y4OFPs"
+    },
+    {
+      "title": "Hysteria",
+      "artist": "Def Leppard",
+      "year": 1987,
+      "album": "Hysteria",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "DRjWU5BdO-g"
+    },
+    {
+      "title": "Armageddon It",
+      "artist": "Def Leppard",
+      "year": 1988,
+      "album": "Hysteria",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "urNFQw8VIvA"
+    },
+    {
+      "title": "Love Bites",
+      "artist": "Def Leppard",
+      "year": 1988,
+      "album": "Hysteria",
+      "genre": [
+        "Hard Rock",
+        "Power Ballad"
+      ],
+      "youtubeId": "W4XiSFyYRE8"
+    },
+    {
+      "title": "Rocket",
+      "artist": "Def Leppard",
+      "year": 1988,
+      "album": "Hysteria",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "bpcc43NV394"
+    },
+    {
+      "title": "Bringin' On the Heartbreak",
+      "artist": "Def Leppard",
+      "year": 1981,
+      "album": "High 'n' Dry",
+      "genre": [
+        "Hard Rock",
+        "Power Ballad"
+      ],
+      "youtubeId": "f_X5A-BYjO8"
+    },
+    {
+      "title": "Let It Go",
+      "artist": "Def Leppard",
+      "year": 1981,
+      "album": "High 'n' Dry",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "sHNBxd4LnDs"
+    },
+    {
+      "title": "Wasted",
+      "artist": "Def Leppard",
+      "year": 1980,
+      "album": "On Through the Night",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "IQzw1wJO8bY"
+    },
+    {
+      "title": "Hello America",
+      "artist": "Def Leppard",
+      "year": 1980,
+      "album": "On Through the Night",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "adFqYYHtht8"
+    },
+    {
+      "title": "Welcome to the Jungle",
+      "artist": "Guns N' Roses",
+      "year": 1987,
+      "album": "Appetite for Destruction",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "o1tj2zJ2Wvg"
+    },
+    {
+      "title": "Sweet Child o' Mine",
+      "artist": "Guns N' Roses",
+      "year": 1987,
+      "album": "Appetite for Destruction",
+      "genre": [
+        "Hard Rock",
+        "Ballad"
+      ],
+      "youtubeId": "1w7OgIMMRc4"
+    },
+    {
+      "title": "Paradise City",
+      "artist": "Guns N' Roses",
+      "year": 1987,
+      "album": "Appetite for Destruction",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "Rbm6GXllBiw"
+    },
+    {
+      "title": "Mr. Brownstone",
+      "artist": "Guns N' Roses",
+      "year": 1987,
+      "album": "Appetite for Destruction",
+      "genre": [
+        "Hard Rock",
+        "Blues Rock"
+      ],
+      "youtubeId": "27rKrR424cA"
+    },
+    {
+      "title": "Rocket Queen",
+      "artist": "Guns N' Roses",
+      "year": 1987,
+      "album": "Appetite for Destruction",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "L5cegu4kZNU"
+    },
+    {
+      "title": "Nightrain",
+      "artist": "Guns N' Roses",
+      "year": 1987,
+      "album": "Appetite for Destruction",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "VMDljoM5JFI"
+    },
+    {
+      "title": "Patience",
+      "artist": "Guns N' Roses",
+      "year": 1988,
+      "album": "G N' R Lies",
+      "genre": [
+        "Acoustic Rock",
+        "Ballad"
+      ],
+      "youtubeId": "ErvgV4P6Fzc"
+    },
+    {
+      "title": "Used to Love Her",
+      "artist": "Guns N' Roses",
+      "year": 1988,
+      "album": "G N' R Lies",
+      "genre": [
+        "Acoustic Rock",
+        "Dark Humor"
+      ],
+      "youtubeId": "FDIvIb06abI"
+    },
+    {
+      "title": "Talk Dirty to Me",
+      "artist": "Poison",
+      "year": 1986,
+      "album": "Look What the Cat Dragged In",
+      "genre": [
+        "Glam Metal",
+        "Hard Rock"
+      ],
+      "youtubeId": "xCChxBSRo1Y"
+    },
+    {
+      "title": "I Want Action",
+      "artist": "Poison",
+      "year": 1986,
+      "album": "Look What the Cat Dragged In",
+      "genre": [
+        "Glam Metal",
+        "Hard Rock"
+      ],
+      "youtubeId": "GHcDX1C-J30"
+    },
+    {
+      "title": "I Won't Forget You",
+      "artist": "Poison",
+      "year": 1986,
+      "album": "Look What the Cat Dragged In",
+      "genre": [
+        "Glam Metal",
+        "Power Ballad"
+      ],
+      "youtubeId": "BJJ_HJ-9JNM"
+    },
+    {
+      "title": "Nothin' but a Good Time",
+      "artist": "Poison",
+      "year": 1988,
+      "album": "Open Up and Say...Ahh!",
+      "genre": [
+        "Glam Metal",
+        "Hard Rock"
+      ],
+      "youtubeId": "_88L-CU7PD4"
+    },
+    {
+      "title": "Fallen Angel",
+      "artist": "Poison",
+      "year": 1988,
+      "album": "Open Up and Say...Ahh!",
+      "genre": [
+        "Glam Metal",
+        "Hard Rock"
+      ],
+      "youtubeId": "AelpbAegA-4"
+    },
+    {
+      "title": "Every Rose Has Its Thorn",
+      "artist": "Poison",
+      "year": 1988,
+      "album": "Open Up and Say...Ahh!",
+      "genre": [
+        "Glam Metal",
+        "Power Ballad"
+      ],
+      "youtubeId": "j2r2nDhTzO4"
+    },
+    {
+      "title": "Your Mama Don't Dance",
+      "artist": "Poison",
+      "year": 1988,
+      "album": "Open Up and Say...Ahh!",
+      "genre": [
+        "Glam Metal",
+        "Hard Rock",
+        "Cover"
+      ],
+      "youtubeId": "aB5JRS6JOck"
+    },
+    {
+      "title": "Shake Me",
+      "artist": "Cinderella",
+      "year": 1986,
+      "album": "Night Songs",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "ptPekKOigkQ"
+    },
+    {
+      "title": "Nobody's Fool",
+      "artist": "Cinderella",
+      "year": 1986,
+      "album": "Night Songs",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal",
+        "Power Ballad"
+      ],
+      "youtubeId": "MCOrtJMQmVs"
+    },
+    {
+      "title": "Somebody Save Me",
+      "artist": "Cinderella",
+      "year": 1986,
+      "album": "Night Songs",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "LUkqBRC1zUA"
+    },
+    {
+      "title": "Gypsy Road",
+      "artist": "Cinderella",
+      "year": 1988,
+      "album": "Long Cold Winter",
+      "genre": [
+        "Hard Rock",
+        "Blues Rock"
+      ],
+      "youtubeId": "6j7E7pvLxmI"
+    },
+    {
+      "title": "Don't Know What You Got (Till It's Gone)",
+      "artist": "Cinderella",
+      "year": 1988,
+      "album": "Long Cold Winter",
+      "genre": [
+        "Power Ballad",
+        "Blues Rock"
+      ],
+      "youtubeId": "i28UEoLXVFQ"
+    },
+    {
+      "title": "Coming Home",
+      "artist": "Cinderella",
+      "year": 1988,
+      "album": "Long Cold Winter",
+      "genre": [
+        "Hard Rock",
+        "Blues Rock"
+      ],
+      "youtubeId": "j-qG6o5N7oQ"
+    },
+    {
+      "title": "The Last Mile",
+      "artist": "Cinderella",
+      "year": 1988,
+      "album": "Long Cold Winter",
+      "genre": [
+        "Hard Rock",
+        "Blues Rock"
+      ],
+      "youtubeId": "Xbz5WUqWZfg"
+    },
+    {
+      "title": "Sexual Healing",
+      "artist": "Marvin Gaye",
+      "year": 1982,
+      "album": "Midnight Love",
+      "genre": [
+        "R&B",
+        "Soul",
+        "Funk"
+      ],
+      "youtubeId": "rjlSiASsUIs"
+    },
+    {
+      "title": "My Love Is Waiting",
+      "artist": "Marvin Gaye",
+      "year": 1982,
+      "album": "Midnight Love",
+      "genre": [
+        "R&B",
+        "Soul"
+      ],
+      "youtubeId": "QGo8vjhf0XA"
+    },
+    {
+      "title": "'Til Tomorrow",
+      "artist": "Marvin Gaye",
+      "year": 1982,
+      "album": "Midnight Love",
+      "genre": [
+        "R&B",
+        "Soul"
+      ],
+      "youtubeId": "3RUoWgWI0jE"
+    },
+    {
+      "title": "Rockin' After Midnight",
+      "artist": "Marvin Gaye",
+      "year": 1982,
+      "album": "Midnight Love",
+      "genre": [
+        "R&B",
+        "Funk"
+      ],
+      "youtubeId": "rdGuqTpSLkw"
+    },
+    {
+      "title": "Third World Girl",
+      "artist": "Marvin Gaye",
+      "year": 1982,
+      "album": "Midnight Love",
+      "genre": [
+        "R&B",
+        "Soul"
+      ],
+      "youtubeId": "S1-oCItdMnU"
+    },
+    {
+      "title": "Joy",
+      "artist": "Marvin Gaye",
+      "year": 1982,
+      "album": "Midnight Love",
+      "genre": [
+        "R&B",
+        "Soul"
+      ],
+      "youtubeId": "NVdrIbQRp54"
+    },
+    {
+      "title": "Sanctified Lady",
+      "artist": "Marvin Gaye",
+      "year": 1985,
+      "album": "Dream of a Lifetime",
+      "genre": [
+        "R&B",
+        "Soul"
+      ],
+      "youtubeId": "LWhD6jDPQxY"
+    },
+    {
+      "title": "It's Madness",
+      "artist": "Marvin Gaye",
+      "year": 1985,
+      "album": "Dream of a Lifetime",
+      "genre": [
+        "R&B",
+        "Soul"
+      ],
+      "youtubeId": "cYIO4yibKGE"
+    },
+    {
+      "title": "Savage in the Sack",
+      "artist": "Marvin Gaye",
+      "year": 1985,
+      "album": "Dream of a Lifetime",
+      "genre": [
+        "R&B",
+        "Funk"
+      ],
+      "youtubeId": "OK6FMhVgx9o"
+    },
+    {
+      "title": "Life's Opera",
+      "artist": "Marvin Gaye",
+      "year": 1985,
+      "album": "Dream of a Lifetime",
+      "genre": [
+        "R&B",
+        "Soul"
+      ],
+      "youtubeId": "Mc10ppXM_W0"
+    },
+    {
+      "title": "Ain't It Funny (How Things Turn Around)",
+      "artist": "Marvin Gaye",
+      "year": 1985,
+      "album": "Dream of a Lifetime",
+      "genre": [
+        "R&B",
+        "Soul"
+      ],
+      "youtubeId": "EcyaiXuAtVk"
+    },
+    {
+      "title": "Masochistic Beauty",
+      "artist": "Marvin Gaye",
+      "year": 1985,
+      "album": "Dream of a Lifetime",
+      "genre": [
+        "R&B",
+        "Soul"
+      ],
+      "youtubeId": "xxXNSEOZHAI"
+    },
+    {
+      "title": "Another One Bites the Dust",
+      "artist": "Queen",
+      "year": 1980,
+      "album": "The Game",
+      "genre": [
+        "Rock",
+        "Funk",
+        "Disco"
+      ],
+      "youtubeId": "rY0WxgSXdEE"
+    },
+    {
+      "title": "Crazy Little Thing Called Love",
+      "artist": "Queen",
+      "year": 1980,
+      "album": "The Game",
+      "genre": [
+        "Rockabilly",
+        "Rock",
+        "Pop"
+      ],
+      "youtubeId": "zO6D_BAuYCI"
+    },
+    {
+      "title": "Under Pressure",
+      "artist": "Queen & David Bowie",
+      "year": 1981,
+      "album": "Hot Space",
+      "genre": [
+        "Rock",
+        "Funk",
+        "Pop"
+      ],
+      "youtubeId": "HglA72ogPCE"
+    },
+    {
+      "title": "Radio Ga Ga",
+      "artist": "Queen",
+      "year": 1984,
+      "album": "The Works",
+      "genre": [
+        "Pop Rock",
+        "Synth-pop"
+      ],
+      "youtubeId": "azdwsXLmrHE"
+    },
+    {
+      "title": "I Want to Break Free",
+      "artist": "Queen",
+      "year": 1984,
+      "album": "The Works",
+      "genre": [
+        "Pop Rock",
+        "Synth-pop"
+      ],
+      "youtubeId": "WUOtCLOXgm8"
+    },
+    {
+      "title": "It's a Hard Life",
+      "artist": "Queen",
+      "year": 1984,
+      "album": "The Works",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "youtubeId": "uHP-qgzUVLM"
+    },
+    {
+      "title": "One Vision",
+      "artist": "Queen",
+      "year": 1985,
+      "album": "A Kind of Magic",
+      "genre": [
+        "Rock",
+        "Arena Rock"
+      ],
+      "youtubeId": "-OGd4gplxQM"
+    },
+    {
+      "title": "A Kind of Magic",
+      "artist": "Queen",
+      "year": 1986,
+      "album": "A Kind of Magic",
+      "genre": [
+        "Pop Rock",
+        "Synth-pop"
+      ],
+      "youtubeId": "0p_1QSUsbsM"
+    },
+    {
+      "title": "Who Wants to Live Forever",
+      "artist": "Queen",
+      "year": 1986,
+      "album": "A Kind of Magic",
+      "genre": [
+        "Rock",
+        "Ballad"
+      ],
+      "youtubeId": "_Jtpf8N5IDE"
+    },
+    {
+      "title": "I Want It All",
+      "artist": "Queen",
+      "year": 1989,
+      "album": "The Miracle",
+      "genre": [
+        "Hard Rock",
+        "Glam Rock"
+      ],
+      "youtubeId": "hFDcoX7s6rE"
+    },
+    {
+      "title": "Breakthru",
+      "artist": "Queen",
+      "year": 1989,
+      "album": "The Miracle",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "youtubeId": "CEjU9KVABao"
+    },
+    {
+      "title": "The Invisible Man",
+      "artist": "Queen",
+      "year": 1989,
+      "album": "The Miracle",
+      "genre": [
+        "Pop Rock",
+        "Funk Rock"
+      ],
+      "youtubeId": "zKdxd718WXg"
+    },
+    {
+      "title": "Red Red Wine",
+      "artist": "UB40",
+      "year": 1983,
+      "album": "Labour of Love",
+      "genre": [
+        "Reggae",
+        "Pop"
+      ],
+      "youtubeId": "zXt56MB-3vc"
+    },
+    {
+      "title": "Please Don't Make Me Cry",
+      "artist": "UB40",
+      "year": 1983,
+      "album": "Labour of Love",
+      "genre": [
+        "Reggae",
+        "Pop"
+      ],
+      "youtubeId": "rOcEkb2KkXY"
+    },
+    {
+      "title": "Many Rivers to Cross",
+      "artist": "UB40",
+      "year": 1983,
+      "album": "Labour of Love",
+      "genre": [
+        "Reggae",
+        "Soul"
+      ],
+      "youtubeId": "6cKXMGEF_XY"
+    },
+    {
+      "title": "Cherry Oh Baby",
+      "artist": "UB40",
+      "year": 1983,
+      "album": "Labour of Love",
+      "genre": [
+        "Reggae",
+        "Pop"
+      ],
+      "youtubeId": "1RGULTPoCYo"
+    },
+    {
+      "title": "Food for Thought",
+      "artist": "UB40",
+      "year": 1980,
+      "album": "Signing Off",
+      "genre": [
+        "Reggae",
+        "Pop",
+        "Political"
+      ],
+      "youtubeId": "mOBZ6ygWk7I"
+    },
+    {
+      "title": "Kingston Town",
+      "artist": "UB40",
+      "year": 1980,
+      "album": "Signing Off",
+      "genre": [
+        "Reggae",
+        "Lovers Rock"
+      ],
+      "youtubeId": "WK5w0P9W7Zw"
+    },
+    {
+      "title": "The Earth Dies Screaming",
+      "artist": "UB40",
+      "year": 1980,
+      "album": "Signing Off",
+      "genre": [
+        "Reggae",
+        "Dub"
+      ],
+      "youtubeId": "cWl69ZOINfE"
+    },
+    {
+      "title": "Don't Break My Heart",
+      "artist": "UB40",
+      "year": 1985,
+      "album": "Baggariddim",
+      "genre": [
+        "Reggae",
+        "Pop"
+      ],
+      "youtubeId": "dHj_RxvkWHQ"
+    },
+    {
+      "title": "I Got You Babe",
+      "artist": "UB40 feat. Chrissie Hynde",
+      "year": 1985,
+      "album": "Baggariddim",
+      "genre": [
+        "Reggae",
+        "Pop",
+        "Duet"
+      ],
+      "youtubeId": "2aP4GaAruws"
+    },
+    {
+      "title": "Sing Our Own Song",
+      "artist": "UB40",
+      "year": 1986,
+      "album": "Rat in the Kitchen",
+      "genre": [
+        "Reggae",
+        "Pop",
+        "Political"
+      ],
+      "youtubeId": "OiE1Ir0Gnxc"
+    },
+    {
+      "title": "Rat in Mi Kitchen",
+      "artist": "UB40",
+      "year": 1986,
+      "album": "Rat in the Kitchen",
+      "genre": [
+        "Reggae",
+        "Pop"
+      ],
+      "youtubeId": "jausD8qsnKU"
+    },
+    {
+      "title": "Watchdogs",
+      "artist": "UB40",
+      "year": 1986,
+      "album": "Rat in the Kitchen",
+      "genre": [
+        "Reggae",
+        "Pop"
+      ],
+      "youtubeId": "8hEV1EwJARY"
+    },
+    {
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "album": "Thriller",
+      "genre": [
+        "Pop",
+        "Funk",
+        "Post-disco"
+      ],
+      "youtubeId": "Zi_XLOBDo_Y"
+    },
+    {
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "album": "Thriller",
+      "genre": [
+        "Rock",
+        "Pop",
+        "Dance-rock"
+      ],
+      "youtubeId": "oRdxUFDoQe0"
+    },
+    {
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "album": "Thriller",
+      "genre": [
+        "Pop",
+        "Funk",
+        "Rock"
+      ],
+      "youtubeId": "sOnqjkJTMaA"
+    },
+    {
+      "title": "Wanna Be Startin' Somethin'",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "album": "Thriller",
+      "genre": [
+        "Disco",
+        "Funk",
+        "Pop"
+      ],
+      "youtubeId": "1XMvPTFzgVU"
+    },
+    {
+      "title": "Human Nature",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "album": "Thriller",
+      "genre": [
+        "Pop",
+        "Soft rock",
+        "R&B"
+      ],
+      "youtubeId": "ElN_4vUvTPs"
+    },
+    {
+      "title": "P.Y.T. (Pretty Young Thing)",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "album": "Thriller",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Funk"
+      ],
+      "youtubeId": "1ZZQuj6htF4"
+    },
+    {
+      "title": "The Girl Is Mine",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "album": "Thriller",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Ballad"
+      ],
+      "youtubeId": "8GB9BULxZ8c"
+    },
+    {
+      "title": "Bad",
+      "artist": "Michael Jackson",
+      "year": 1987,
+      "album": "Bad",
+      "genre": [
+        "Pop",
+        "Funk",
+        "Dance-pop"
+      ],
+      "youtubeId": "dsUXAEzaC3Q"
+    },
+    {
+      "title": "The Way You Make Me Feel",
+      "artist": "Michael Jackson",
+      "year": 1987,
+      "album": "Bad",
+      "genre": [
+        "Pop",
+        "R&B",
+        "Dance-pop"
+      ],
+      "youtubeId": "HzZ_urpj4As"
+    },
+    {
+      "title": "Man in the Mirror",
+      "artist": "Michael Jackson",
+      "year": 1987,
+      "album": "Bad",
+      "genre": [
+        "Pop",
+        "Gospel",
+        "Inspirational"
+      ],
+      "youtubeId": "PivWY9wn5ps"
+    },
+    {
+      "title": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "year": 1987,
+      "album": "Bad",
+      "genre": [
+        "Rock",
+        "Pop",
+        "Hard rock"
+      ],
+      "youtubeId": "yUi_S6YWjZw"
+    },
+    {
+      "title": "Smooth Criminal",
+      "artist": "Michael Jackson",
+      "year": 1987,
+      "album": "Bad",
+      "genre": [
+        "Pop",
+        "Funk",
+        "Dance-rock"
+      ],
+      "youtubeId": "h_D3VFfhvs4"
+    },
+    {
+      "title": "Leave Me Alone",
+      "artist": "Michael Jackson",
+      "year": 1987,
+      "album": "Bad",
+      "genre": [
+        "Pop",
+        "Funk",
+        "Dance-pop"
+      ],
+      "youtubeId": "crbFmpezO4A"
+    },
+    {
+      "title": "Holiday",
+      "artist": "Madonna",
+      "year": 1983,
+      "album": "Madonna",
+      "genre": [
+        "Dance-pop",
+        "Post-disco"
+      ],
+      "youtubeId": "5Rswx2Z7SDw"
+    },
+    {
+      "title": "Borderline",
+      "artist": "Madonna",
+      "year": 1984,
+      "album": "Madonna",
+      "genre": [
+        "Pop",
+        "Dance-pop"
+      ],
+      "youtubeId": "rSaC-YbSDpo"
+    },
+    {
+      "title": "Like a Virgin",
+      "artist": "Madonna",
+      "year": 1984,
+      "album": "Like a Virgin",
+      "genre": [
+        "Dance-pop",
+        "Post-disco"
+      ],
+      "youtubeId": "s__rX_WL100"
+    },
+    {
+      "title": "Material Girl",
+      "artist": "Madonna",
+      "year": 1985,
+      "album": "Like a Virgin",
+      "genre": [
+        "Dance-pop",
+        "Pop"
+      ],
+      "youtubeId": "6p-lDYPR2P8"
+    },
+    {
+      "title": "Crazy for You",
+      "artist": "Madonna",
+      "year": 1985,
+      "album": "Vision Quest (OST)",
+      "genre": [
+        "Pop",
+        "Power ballad"
+      ],
+      "youtubeId": "DHutZXREZ0E"
+    },
+    {
+      "title": "Into the Groove",
+      "artist": "Madonna",
+      "year": 1985,
+      "album": "Like a Virgin (Reissue)",
+      "genre": [
+        "Dance-POP",
+        "Post-disco"
+      ],
+      "youtubeId": "52iW3lcpK5M"
+    },
+    {
+      "title": "Live to Tell",
+      "artist": "Madonna",
+      "year": 1986,
+      "album": "True Blue",
+      "genre": [
+        "Pop",
+        "Ballad"
+      ],
+      "youtubeId": "IzAO9A9GjgI"
+    },
+    {
+      "title": "Papa Don't Preach",
+      "artist": "Madonna",
+      "year": 1986,
+      "album": "True Blue",
+      "genre": [
+        "Pop",
+        "Dance-pop"
+      ],
+      "youtubeId": "G333Is7VPOg"
+    },
+    {
+      "title": "True Blue",
+      "artist": "Madonna",
+      "year": 1986,
+      "album": "True Blue",
+      "genre": [
+        "Pop",
+        "Dance-pop"
+      ],
+      "youtubeId": "P51LunEV3Sk"
+    },
+    {
+      "title": "Open Your Heart",
+      "artist": "Madonna",
+      "year": 1986,
+      "album": "True Blue",
+      "genre": [
+        "Dance-pop",
+        "Pop"
+      ],
+      "youtubeId": "snsTmi9N9Gs"
+    },
+    {
+      "title": "La Isla Bonita",
+      "artist": "Madonna",
+      "year": 1987,
+      "album": "True Blue",
+      "genre": [
+        "Latin pop",
+        "Dance-pop"
+      ],
+      "youtubeId": "zpzdgmqIHOQ"
+    },
+    {
+      "title": "Who's That Girl",
+      "artist": "Madonna",
+      "year": 1987,
+      "album": "Who's That Girl (OST)",
+      "genre": [
+        "Dance-pop",
+        "Pop"
+      ],
+      "youtubeId": "r0qDBYiOBrc"
+    },
+    {
+      "title": "Like a Prayer",
+      "artist": "Madonna",
+      "year": 1989,
+      "album": "Like a Prayer",
+      "genre": [
+        "Pop",
+        "Dance-pop",
+        "Gospel"
+      ],
+      "youtubeId": "79fzeNUqQbQ"
+    },
+    {
+      "title": "Express Yourself",
+      "artist": "Madonna",
+      "year": 1989,
+      "album": "Like a Prayer",
+      "genre": [
+        "Dance-pop",
+        "Pop"
+      ],
+      "youtubeId": "GsVcUzP_O_8"
+    },
+    {
+      "title": "Cherish",
+      "artist": "Madonna",
+      "year": 1989,
+      "album": "Like a Prayer",
+      "genre": [
+        "Pop",
+        "Dance-pop"
+      ],
+      "youtubeId": "8q2WS6ahCnY"
+    },
+    {
+      "title": "The Zoo",
+      "artist": "Scorpions",
+      "year": 1980,
+      "album": "Animal Magnetism",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "X27IfAgzhTY"
+    },
+    {
+      "title": "Make It Real",
+      "artist": "Scorpions",
+      "year": 1980,
+      "album": "Animal Magnetism",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "VncG0KAug2o"
+    },
+    {
+      "title": "No One Like You",
+      "artist": "Scorpions",
+      "year": 1982,
+      "album": "Blackout",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "6VwbyBGbqPY"
+    },
+    {
+      "title": "Blackout",
+      "artist": "Scorpions",
+      "year": 1982,
+      "album": "Blackout",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "qGPT1kfaSEs"
+    },
+    {
+      "title": "Rock You Like a Hurricane",
+      "artist": "Scorpions",
+      "year": 1984,
+      "album": "Love at First Sting",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "6yP1tcy9a10"
+    },
+    {
+      "title": "Still Loving You",
+      "artist": "Scorpions",
+      "year": 1984,
+      "album": "Love at First Sting",
+      "genre": [
+        "Hard Rock",
+        "Power Ballad"
+      ],
+      "youtubeId": "7pOr3dBFAeY"
+    },
+    {
+      "title": "Big City Nights",
+      "artist": "Scorpions",
+      "year": 1984,
+      "album": "Love at First Sting",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "pmE_l_dN9UM"
+    },
+    {
+      "title": "Coming Home",
+      "artist": "Scorpions",
+      "year": 1984,
+      "album": "Love at First Sting",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "a9V7R7WoNys"
+    },
+    {
+      "title": "Rhythm of Love",
+      "artist": "Scorpions",
+      "year": 1988,
+      "album": "Savage Amusement",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "vFAf_29KYTs"
+    },
+    {
+      "title": "Believe in Love",
+      "artist": "Scorpions",
+      "year": 1988,
+      "album": "Savage Amusement",
+      "genre": [
+        "Hard Rock",
+        "Power Ballad"
+      ],
+      "youtubeId": "FQSZWAStqcY"
+    },
+    {
+      "title": "Passion Rules the Game",
+      "artist": "Scorpions",
+      "year": 1988,
+      "album": "Savage Amusement",
+      "genre": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "youtubeId": "XGm6oSPFnXo"
+    },
+    {
+      "title": "Runaway",
+      "artist": "Bon Jovi",
+      "year": 1984,
+      "album": "Bon Jovi",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "s86K-p089R8"
+    },
+    {
+      "title": "She Don't Know Me",
+      "artist": "Bon Jovi",
+      "year": 1984,
+      "album": "Bon Jovi",
+      "genre": [
+        "Hard Rock",
+        "Pop Rock"
+      ],
+      "youtubeId": "omLgJe9cnCw"
+    },
+    {
+      "title": "In and Out of Love",
+      "artist": "Bon Jovi",
+      "year": 1985,
+      "album": "7800° Fahrenheit",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "5U6Y4xSa0HY"
+    },
+    {
+      "title": "Only Lonely",
+      "artist": "Bon Jovi",
+      "year": 1985,
+      "album": "7800° Fahrenheit",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "tfIu7hf5nqc"
+    },
+    {
+      "title": "Silent Night",
+      "artist": "Bon Jovi",
+      "year": 1985,
+      "album": "7800° Fahrenheit",
+      "genre": [
+        "Hard Rock",
+        "Ballad"
+      ],
+      "youtubeId": "8HjC6T2HDI4"
+    },
+    {
+      "title": "You Give Love a Bad Name",
+      "artist": "Bon Jovi",
+      "year": 1986,
+      "album": "Slippery When Wet",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "KrZHPOeOxQQ"
+    },
+    {
+      "title": "Livin' on a Prayer",
+      "artist": "Bon Jovi",
+      "year": 1986,
+      "album": "Slippery When Wet",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "lDK9QqIzhwk"
+    },
+    {
+      "title": "Wanted Dead or Alive",
+      "artist": "Bon Jovi",
+      "year": 1986,
+      "album": "Slippery When Wet",
+      "genre": [
+        "Hard Rock",
+        "Country Rock"
+      ],
+      "youtubeId": "SRvCvsRp5ho"
+    },
+    {
+      "title": "Never Say Goodbye",
+      "artist": "Bon Jovi",
+      "year": 1986,
+      "album": "Slippery When Wet",
+      "genre": [
+        "Hard Rock",
+        "Ballad"
+      ],
+      "youtubeId": "ifm00JEjSeo"
+    },
+    {
+      "title": "Bad Medicine",
+      "artist": "Bon Jovi",
+      "year": 1988,
+      "album": "New Jersey",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "eOUtsybozjg"
+    },
+    {
+      "title": "Born to Be My Baby",
+      "artist": "Bon Jovi",
+      "year": 1988,
+      "album": "New Jersey",
+      "genre": [
+        "Hard Rock",
+        "Pop Rock"
+      ],
+      "youtubeId": "Ahf2B_eZUc4"
+    },
+    {
+      "title": "I'll Be There for You",
+      "artist": "Bon Jovi",
+      "year": 1988,
+      "album": "New Jersey",
+      "genre": [
+        "Hard Rock",
+        "Ballad"
+      ],
+      "youtubeId": "mh8MIp2FOhc"
+    },
+    {
+      "title": "Lay Your Hands on Me",
+      "artist": "Bon Jovi",
+      "year": 1988,
+      "album": "New Jersey",
+      "genre": [
+        "Hard Rock",
+        "Glam Metal"
+      ],
+      "youtubeId": "EhjSzibOIH4"
+    },
+    {
+      "title": "Seek & Destroy",
+      "artist": "Metallica",
+      "year": 1983,
+      "album": "Kill 'Em All",
+      "genre": [
+        "Thrash Metal",
+        "Heavy Metal"
+      ],
+      "youtubeId": "FLTchCiC0T0"
+    },
+    {
+      "title": "The Four Horsemen",
+      "artist": "Metallica",
+      "year": 1983,
+      "album": "Kill 'Em All",
+      "genre": [
+        "Thrash Metal",
+        "Speed Metal"
+      ],
+      "youtubeId": "-zKOhVSERS8"
+    },
+    {
+      "title": "Whiplash",
+      "artist": "Metallica",
+      "year": 1983,
+      "album": "Kill 'Em All",
+      "genre": [
+        "Thrash Metal",
+        "Speed Metal"
+      ],
+      "youtubeId": "beWvPkYHaic"
+    },
+    {
+      "title": "Fade to Black",
+      "artist": "Metallica",
+      "year": 1984,
+      "album": "Ride the Lightning",
+      "genre": [
+        "Heavy Metal",
+        "Ballad"
+      ],
+      "youtubeId": "9HZ_tx8aWuA"
+    },
+    {
+      "title": "For Whom the Bell Tolls",
+      "artist": "Metallica",
+      "year": 1984,
+      "album": "Ride the Lightning",
+      "genre": [
+        "Thrash Metal",
+        "Heavy Metal"
+      ],
+      "youtubeId": "B_HSa1dEL9s"
+    },
+    {
+      "title": "Creeping Death",
+      "artist": "Metallica",
+      "year": 1984,
+      "album": "Ride the Lightning",
+      "genre": [
+        "Thrash Metal",
+        "Heavy Metal"
+      ],
+      "youtubeId": "QaMySFc-Rec"
+    },
+    {
+      "title": "Ride the Lightning",
+      "artist": "Metallica",
+      "year": 1984,
+      "album": "Ride the Lightning",
+      "genre": [
+        "Thrash Metal",
+        "Heavy Metal"
+      ],
+      "youtubeId": "We_DLCYDaYw"
+    },
+    {
+      "title": "Master of Puppets",
+      "artist": "Metallica",
+      "year": 1986,
+      "album": "Master of Puppets",
+      "genre": [
+        "Thrash Metal",
+        "Heavy Metal"
+      ],
+      "youtubeId": "E0ozmU9cJDg"
+    },
+    {
+      "title": "Battery",
+      "artist": "Metallica",
+      "year": 1986,
+      "album": "Master of Puppets",
+      "genre": [
+        "Thrash Metal",
+        "Speed Metal"
+      ],
+      "youtubeId": "RvW4OQFA_UY"
+    },
+    {
+      "title": "Welcome Home (Sanitarium)",
+      "artist": "Metallica",
+      "year": 1986,
+      "album": "Master of Puppets",
+      "genre": [
+        "Thrash Metal",
+        "Progressive Metal"
+      ],
+      "youtubeId": "ZiIc0HuJ78Q"
+    },
+    {
+      "title": "One",
+      "artist": "Metallica",
+      "year": 1988,
+      "album": "...And Justice for All",
+      "genre": [
+        "Thrash Metal",
+        "Progressive Metal"
+      ],
+      "youtubeId": "WM8bTdBs-cw"
+    },
+    {
+      "title": "Blackened",
+      "artist": "Metallica",
+      "year": 1988,
+      "album": "...And Justice for All",
+      "genre": [
+        "Thrash Metal",
+        "Heavy Metal"
+      ],
+      "youtubeId": "nUZVXtDVrc0"
+    }
+  ]
+}

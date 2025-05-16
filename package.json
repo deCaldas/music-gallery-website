@@ -1,0 +1,18 @@
+{
+  "name": "80s-music-gallery",
+  "version": "1.0.0",
+  "description": "Los años 80 tienen una vibra increíble para inspirar proyectos creativos.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Diego Whiskey <d.caldascaridad@gmail.com> (https://decaldas.github.io/home/)",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "puppeteer": "^24.7.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
