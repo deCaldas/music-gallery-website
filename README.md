@@ -19,7 +19,7 @@ Una galería web dinámica que permite explorar, buscar y filtrar canciones de f
 - HTML5
 - CSS3
 - JavaScript
-<!-- - GitHub Pages / servidor local (para pruebas) -->
+- Servidor local (para pruebas)
 
 ---
 
@@ -97,16 +97,13 @@ Y si no se encuentra nada:
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/galeria-canciones.git
+git clone git@github.com:deCaldas/music-gallery-website.git
 ```
 
 2. Asegúrate de usar un servidor local para evitar problemas de CORS con `fetch`. Puedes usar:
 
 ```bash
-# Con Python 3
-python -m http.server
-
-# Con Node.js (instala http-server si no lo tienes)
+# Con Node.js (instala http-server si no lo tienes con `npm i http-server`)
 npx http-server .
 ```
 
@@ -129,18 +126,11 @@ http://localhost:8000
 
 ### 👤 Autor
 
-Desarrollado por **\[Tu Nombre o Alias]**
-Inspirado en la música rap, la cultura hip hop y la pasión por el desarrollo web.
+Desarrollado por **Diego Whiskey**
+Inspirado en los grandes éxitos de la música de los 80s y la pasión por el desarrollo web.
 
 ---
 
 ### 🫱🏻‍🫲🏻 Licencia
 
 Este proyecto se distribuye bajo la licencia MIT.
-
-```
-
----
-
-¿Quieres que también lo traduzca al inglés o te ayudo a generar una versión adaptada para subirlo a GitHub con imágenes o badges?
-```

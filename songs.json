@@ -3795,6 +3795,28 @@
         "Heavy Metal"
       ],
       "youtubeId": "nUZVXtDVrc0"
+    },
+    {
+      "title": "Cry Wolf",
+      "artist": "A-ha",
+      "year": 1986,
+      "album": "Scoundrel Days",
+      "genre": [
+        "Pop Rock",
+        "Synth Pop"
+      ],
+      "youtubeId": "V-x1XM1pfz4"
+    },
+    {
+      "title": "Don't Worry Be Happy",
+      "artist": "Bobby McFerrin",
+      "year": 1988,
+      "album": "Simple Pleasures",
+      "genre": [
+        "Reggae",
+        "Jazz"
+      ],
+      "youtubeId":"d-diB65scQU"
     }
   ]
 }
