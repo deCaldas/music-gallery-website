@@ -110,7 +110,7 @@ npx http-server .
 3. Abre en tu navegador:
 
 ```
-http://localhost:8000
+http://localhost:8080
 ```
 
 ---
