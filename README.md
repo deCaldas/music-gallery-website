@@ -115,18 +115,10 @@ http://localhost:8080
 
 ---
 
-### 📈 Próximos pasos (Fase 2)
-
-* 🎚️ Agregar filtros dinámicos por artista, año, álbum o género.
-* 🔊 Reproductor de audio integrado por canción.
-* 💽 Subida de canciones desde una interfaz de administrador.
-* 🛒 Evolucionar hacia una tienda digital de beats, demos o tracks exclusivos.
-
----
-
 ### 👤 Autor
 
-Desarrollado por **Diego Whiskey**
+Desarrollado por **Diego Toro Cárdenas**
+
 Inspirado en los grandes éxitos de la música de los 80s y la pasión por el desarrollo web.
 
 ---
